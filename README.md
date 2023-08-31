@@ -1,4 +1,5 @@
-# SalesAnalysis_SQL_PowerBI
+# Sales Analysis using SQL and PowerBi
+
 
 ### Setup
 - This project requires SQL Server (SQL Express), Power BI Desktop
